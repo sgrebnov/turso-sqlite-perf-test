@@ -1,0 +1,1 @@
+SELECT Field3 FROM test_table2 WHERE Field1 = 'F1931ea3af-73c8-4ad3-990e-0f2add780352' AND Field2='F2429cc655-8c98-489b-b826-d97787bea6c0'

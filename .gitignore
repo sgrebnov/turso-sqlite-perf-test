@@ -1,0 +1,4 @@
+/target/
+/duckdb_test.*
+/sqlite_test.*
+/test_data.parquet
